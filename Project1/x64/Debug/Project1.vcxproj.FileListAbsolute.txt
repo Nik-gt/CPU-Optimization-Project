@@ -1,0 +1,3 @@
+C:\Users\NEkit\Documents\CPU Optimization Project\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\NEkit\Documents\CPU Optimization Project\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\NEkit\Documents\CPU Optimization Project\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache

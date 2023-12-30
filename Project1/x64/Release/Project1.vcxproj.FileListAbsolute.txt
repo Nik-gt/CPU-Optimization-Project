@@ -1,0 +1,2 @@
+C:\Users\NEkit\Documents\CPU Optimization Project\Project1\x64\Release\Project1.MyForm.resources
+C:\Users\NEkit\Documents\CPU Optimization Project\Project1\x64\Release\Project1.vcxproj.GenerateResource.cache
